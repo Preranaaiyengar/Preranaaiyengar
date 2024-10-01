@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VLSI, Cyber Security,OFC**
 
-- 📝 I regularly write articles on [https://preranaiyengar.blogspot.com/](https://preranaiyengar.blogspot.com/)
+- 📝 I do upload blogs on [My Blogs](https://preranaiyengar.blogspot.com/)
 
 - ⚡ Fun fact **I like to paint!**
   <br>
