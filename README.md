@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prerana</h1>
 <h3 align="left">A UG student under Electronics and Communication Engineering</h3>
 
-- 🌱 I’m currently learning **VLSI, Cyber Security,OFC**
-
-- 📝 I do upload blogs on [My Blogs](https://preranaiyengar.blogspot.com/)
+- 🌱 I’m currently learning **Angular, React and Node.js**
 
 - ⚡ Fun fact **I like to paint!**
   <br>
