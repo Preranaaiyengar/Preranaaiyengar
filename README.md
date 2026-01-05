@@ -1,50 +1,55 @@
 <h1 align="center">Hi 👋, I'm Prerana Iyengar</h1>
-<h3 align="center">Frontend Developer | UI Designer | ECE Graduate</h3>
+<h3 align="center">Fresher Software Developer | Java & DSA Learner</h3>
 
 <p align="center">
-  Passionate about building intuitive web applications and crafting seamless user experiences using Angular and Firebase.  
-  Currently leveling up my frontend skills with Angular animations, Next.js, and UI/UX design in Figma.
+  A motivated fresher with a strong foundation in programming and web fundamentals.  
+  Currently focused on mastering Data Structures & Algorithms and building solid problem-solving skills for software development roles.
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🌱 Currently Focused On
 
-- 🎯 **[Hand Gesture Recognition for Home Automation](https://github.com/Preranaaiyengar/hand-gesture-home-automation)**  
-  Control home appliances using OpenCV-based hand gesture recognition combined with Arduino.
-
-- ♿ **[Voice-Controlled Wheelchair](https://github.com/Preranaaiyengar/voice-controlled-wheelchair)**  
-  A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
-
-- 🚗 **[Car Rental Website (Angular)](https://github.com/Preranaaiyengar/car-rental-website-ui)**  
-  A sleek, responsive single-page car rental site developed with Angular, SCSS, and hosted on Firebase.
-
-- 🗂️ **[Voice Task Manager](https://github.com/Preranaaiyengar/voice-task-manager)**  
-  Manage your daily tasks hands-free with this voice-controlled task manager built with Angular and Netlify
+- 📌 Data Structures & Algorithms (Arrays, Strings, Hashing, Trees, Graphs, DP – basics)
+- ☕ Java Programming (problem-solving & core concepts)
+- ⚛️ Learning React.js (fundamentals)
+- 💻 Strengthening core CS concepts for interviews
 
 ---
 
-### 🌱 Currently Learning
-
-- Angular Animations & Advanced Concepts  
-- Firebase Integration & Cloud Functions  
-- Next.js & Responsive UI/UX Design with Figma
-
----
-
-### 🛠️ Tools & Technologies
+### 🧠 Skills & Technologies
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 </p>
+
+---
+
+### 📂 Projects
+
+- 🚗 **Car Rental Website (Angular)**  
+  Responsive single-page web application built using Angular, HTML, CSS, and JavaScript.
+
+- 🎯 **Hand Gesture Recognition for Home Automation**  
+  Controlled home appliances using OpenCV-based gesture recognition integrated with Arduino.
+
+- ♿ **Voice-Controlled Wheelchair**  
+  Assistive technology project enabling wheelchair control through voice commands.
+
+*(More projects and DSA solutions coming soon 🚀)*
+
+---
+
+### 📘 DSA Practice
+
+- Solving problems regularly on Arrays, Strings, Hashing, Sliding Window, Trees, Graphs, and basic DP
+- Focus on clean code, optimal time complexity, and edge case handling
+- Maintaining a dedicated DSA repository for interview preparation
 
 ---
 
@@ -58,7 +63,9 @@
 
 ---
 
-### 🎨 Fun Fact
+### ✨ About Me
 
-🖌️ When I’m not coding, I love painting and designing interfaces that delight users!
-
+- 🎓 ECE Graduate
+- 💡 Interested in problem-solving & software development
+- 📈 Actively preparing for technical interviews
+- 🎨 Enjoys clean UI design and structured code
