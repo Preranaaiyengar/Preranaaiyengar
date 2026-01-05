@@ -53,12 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preranaaiyengar&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Preranaaiyengar&theme=default)
----
 
 ### ✨ About Me
 
