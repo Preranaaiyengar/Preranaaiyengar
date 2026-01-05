@@ -56,9 +56,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preranaaiyengar&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Preranaaiyengar&show_icons=true&theme=default" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preranaaiyengar&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Preranaaiyengar&theme=default" />
 </p>
 
 ---
