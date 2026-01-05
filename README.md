@@ -3,7 +3,7 @@
 
 <p align="center">
   A motivated fresher with a strong foundation in programming and web fundamentals.  
-  Currently focused on mastering Data Structures & Algorithms and building solid problem-solving skills for software development roles.
+  Currently focused on mastering Data Structures & Algorithms and building strong problem-solving skills for software development roles.
 </p>
 
 ---
@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle SQL" width="60" height="40"/>
 </p>
 
 ---
@@ -47,8 +47,8 @@
 
 ### 📘 DSA Practice
 
-- Solving problems regularly on Arrays, Strings, Hashing, Sliding Window, Trees, Graphs, and basic DP
-- Focus on clean code, optimal time complexity, and edge case handling
+- Regularly solving problems on Arrays, Strings, Hashing, Sliding Window, Trees, Graphs, and basic DP
+- Focus on clean code, optimal time & space complexity, and edge case handling
 - Maintaining a dedicated DSA repository for interview preparation
 
 ---
